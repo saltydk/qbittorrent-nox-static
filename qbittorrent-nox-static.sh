@@ -699,7 +699,7 @@ _set_module_urls() {
 	github_url[libtorrent]="https://github.com/arvidn/libtorrent.git"
 	github_url[qtbase]="https://github.com/qt/qtbase.git"
 	github_url[qttools]="https://github.com/qt/qttools.git"
-	github_url[qbittorrent]="https://github.com/qbittorrent/qBittorrent.git"
+	github_url[qbittorrent]="https://github.com/saltydk/qBittorrent.git"
 	##########################################################################################################################################################
 	# Create the github_tag associative array for all the applications this script uses and we call them as ${github_tag[app_name]}
 	##########################################################################################################################################################
